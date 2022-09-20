@@ -6,3 +6,7 @@ Kalkulator ini dirancang khusus untuk memberkan perhitungan diskon pada baju yan
 - Flowchart.drawio
 - README.md
 - Pseudocode.txt
+
+
+# Dikerjakan oleh :
+Nabilla Vastusya Zachary _ FE2579136
